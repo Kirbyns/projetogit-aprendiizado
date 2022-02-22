@@ -2,4 +2,8 @@ Olá meu nome é Matheus, um praticante de git
 
 nova linha para testar o conceito de branches
 
+<<<<<<< HEAD
 mais uma alteração para criar uma branch nova
+=======
+mais uma alteração para criar uma branch nova 2
+>>>>>>> staging
